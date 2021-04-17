@@ -1,5 +1,6 @@
-- 🏫 I'm currently studying at Brawijaya Univeristy
-- 🌱 I’m currently learning java
+- 👋 Hi!, I'm just an ordinary IT student who want to achieve his big dream
+- 🏫 I'm currently studying at Brawijaya Univeristy, Indonesia
+- 🌱 I’m currently learning java programming
 
 <!---
 arh-fahreza/arh-fahreza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
